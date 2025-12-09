@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://da5f663b4690-proxyimage.baby-beamup.club/proxy-image/?url=http://beststorage4you.com:80/logoscanais/HISTORY.png" tvg-id="History FHD 1" tvg-name="History FHD 2" group-title="Live TV",History FHD 3
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" tvg-id="History FHD 1" tvg-name="History FHD 2" group-title="Live TV",History FHD 3
 http://nille121.com:80/live/865306014/B475b2981R/2617.m3u8
-#EXTINF:-1 tvg-logo="https://da5f663b4690-proxyimage.baby-beamup.club/proxy-image/?url=http://beststorage4you.com:80/logoscanais/HISTORY.png" tvg-id="History HD 1"  tvg-name="History HD 2"  group-title="Live TV",History HD 3
+#EXTINF:-1 tvg-logo="http://beststorage4you.com:80/logoscanais/HISTORY.png" tvg-id="History HD 1"  tvg-name="History HD 2"  group-title="Live TV",History HD 3
 http://nille121.com:80/live/865306014/B475b2981R/2615.m3u8
+
